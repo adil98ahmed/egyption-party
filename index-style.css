@@ -1,0 +1,178 @@
+.firstpart
+{
+    background-image: url(events-heavenly-header.jpg);
+    background-size: 100% 100%;
+    height: 700px;
+    width: 100%;
+}
+
+
+.inner
+{
+    background-color:rgba(214, 46, 51 , 0.6);
+    width: 100%;
+    height: inherit;
+}
+
+.inner .head
+{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    padding-top: 200px;
+    color: white;
+}
+
+.inner h2
+{
+    font-size: 50px;
+    font-weight: 400px;
+}
+
+.open
+{
+    color: white;
+    cursor: pointer;
+    font-size: 28px;
+    font-weight: 900;
+    position: absolute;
+    left: 0;
+}
+
+.x
+{
+    position: relative;
+    left: 00;
+}
+.menue
+{
+    background-color: #414658;
+    width: 200px;
+    height: 100%;
+    position: relative;
+    position: fixed;
+    top: 0;
+    right: 100%;
+    z-index: 1111;
+    
+}
+
+.menue i
+{
+    float: right;
+    font-size: 22px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.menue ul li 
+{
+    font-size: 22px;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.menue ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.details
+{
+    width: 100%;
+    padding: 60px 30px;
+}
+
+
+.details2
+{
+    background-color: rgba(214, 46, 51 , 0.6);
+    width: 50%;
+    margin: auto;
+    
+}
+
+.caption p
+{
+    background-color: #ccc;
+}
+.caption h4
+{
+    cursor: pointer;
+    color: white;
+    font-weight: 50;
+    padding: 5 0;
+}
+.caption .description
+{
+    display: none;
+}
+
+.invetation
+{
+    background-image: url(invitation-2508607__340.jpg);
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.outer
+{
+    width: 20%;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline-block;
+}
+
+
+.inv-cap
+{
+    border: solid 1px white;
+    padding-top: 50;
+    padding-bottom:50;
+    color: white;
+    font-size: 22px;
+    
+}
+
+.lastPart i
+{
+    font-size: 20px;
+    border: solid 1px gray;
+    color: gray;
+    padding: 15px;
+    margin: 3px;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.lastPart
+{
+    margin-bottom: 100px;
+}
+
+.lastPart i:hover
+{
+    background-color: #dc3545;
+    color: white;
+}
+
+.lastPart h2,h3
+{
+    font-weight: 50
+}
+.clr
+{
+    clear: both;
+    
+}
+.lastPart p{
+    text-align: left; 
+}
